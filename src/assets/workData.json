@@ -1,0 +1,97 @@
+[
+  {
+    "company": "Microsoft",
+    "position": "Associate Consultant at Microsoft",
+    "duration": "Aug 2021 - present",
+    "desc": [
+      "Developing solutions to help businesses migrate to Azure Cloud",
+      "Using different Azure and Non-Azure technologies to make frontend/backend/middleware or any other service required by the customers",
+      "Doing big data analysis and data migration to warehouses"
+    ],
+    "technologies": ["Azure"]
+  },
+  {
+    "company": "riidl",
+    "position": "Full Stack Developer (Intern) at riidl",
+    "duration": "Aug 2020 - May 2021",
+    "desc": [
+      "Developed websites, apps and other tech services for various startups",
+      "Designed databases, user flows, data flow and UI/UX for these startups",
+      "Communicate with the stakeholders and understand their requirements",
+      "Created platforms for Makermela, Darwin (Online events)",
+      "Created and managed websites for Riidl and Riidl Academy"
+    ],
+    "technologies": [
+      "React JS",
+      "Express JS",
+      "Mongo DB",
+      "AWS",
+      "Elastic Beanstalk",
+      "Airtable",
+      "HTML-CSS",
+      "Javascript",
+      "PHP",
+      "Code Igniter"
+    ]
+  },
+  {
+    "company": "Trueno",
+    "position": "Mobile App Developer (Intern) at Trueno",
+    "duration": "May 2020 - Aug 2020",
+    "desc": [
+      "Develop a cross platform mobule application to rent and operate electric vehicles",
+      "Designing the Database to store all user and vehicle information",
+      "Developing backend APIs to call IoT commands and return IoT status to fronend",
+      "Developing frontend to visually represent all stats of the vehicels and to give vehicle commands such as start vehicle, stop vehicle, turn alarm on/off, get location, etc",
+      "Inegrating payment gateway to buy subscription using RazorPay"
+    ],
+    "technologies": [
+      "React Native",
+      "Firebase",
+      "Express JS",
+      "Mongo DB",
+      "RazorPay"
+    ]
+  },
+  {
+    "company": "Innokrit",
+    "position": "Full Stack Developer (Intern) at Innokrit Inventions",
+    "duration": "Dec 2019 - May 2020",
+    "desc": [
+      "Developing an attendance management system which records attendance by face recognition",
+      "Developing frontend to add students' face data, show ongoing face recognition updates, display dashboard having students attendance history",
+      "Developing backend and database to store student face details, student details, attendance history",
+      "Developing Socket based middleware for continuous event-action interaction between backend face recognition process and frontend display"
+    ],
+    "technologies": [
+      "Angular JS",
+      "Express JS",
+      "Sequelize",
+      "Python",
+      "Socket IO"
+    ]
+  },
+  {
+    "company": "Kidyfit",
+    "position": "Backend Developer (Intern) at Kidyfit",
+    "duration": "Oct 2019 - Nov 2019",
+    "desc": [
+      "Developing a website which uses data gathered by a IoT medical device to map the temperature, heart rate and other medical levels of a baby",
+      "Implementing authentication for various doctors and nurses to access patient data",
+      "Implementing notification and email services to alert doctors when patient needs attention based on readings gathered by the IoT device",
+      "Using sockets to show real time data on frontend in different types of graphs"
+    ],
+    "technologies": ["Express JS", "Mongo DB", "React JS", "Web Sockets"]
+  },
+  {
+    "company": "Innokrit",
+    "position": "Software Developer (Intern) at Innokrit Inventions",
+    "duration": "June 2019 - July 2019",
+    "desc": [
+      "Developing an automated chrome extension for filling forms of all students/employees in an institute",
+      "Developing content and background scripts to automatically open the form in new tab for each user and then fill the form using data from CSV",
+      "Data gathered using image processing after scanning the document"
+    ],
+    "technologies": ["JavaScript", "HTML", "CSS", "Chrome Extensions"]
+  }
+]
